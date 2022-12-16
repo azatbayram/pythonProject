@@ -26,6 +26,7 @@ txt="The best things in life are free!"
 print("free" in txt)
 print("azat"in txt)
 
-
-
+# use checking tool in if statement
+if "free" in txt:
+    print("Yes,free is in txt")
 
