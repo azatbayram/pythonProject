@@ -17,9 +17,15 @@ print(a[7:9])
 # length of string
 print(len(a))
 
-# for loop
+# for loop string is array and we can loop through the characters
 for x in "banana":
     print(x)
+
+# checking string
+txt="The best things in life are free!"
+print("free" in txt)
+print("azat"in txt)
+
 
 
 
