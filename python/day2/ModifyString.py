@@ -17,3 +17,10 @@ print(txt.replace("World","Python"))
 print(txt.split(" "))
 y="Azat 26"
 print(y.split())
+
+# concatenation
+a="Hello"
+b="World"
+
+print(a+b)
+print(a+" "+b)
