@@ -30,3 +30,9 @@ print("azat"in txt)
 if "free" in txt:
     print("Yes,free is in txt")
 
+# not in with if statement
+print("expensive" not in txt)
+
+if "expensive" not in txt:
+    print("expensive is not in txt")
+
